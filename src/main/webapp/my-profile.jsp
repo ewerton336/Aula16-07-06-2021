@@ -1,8 +1,3 @@
-<%-- 
-    Document   : my-profile
-    Created on : 31 de mai. de 2021, 19:21:03
-    Author     : rlarg
---%>
 
 <%@page import="java.util.ArrayList"%>
 <%@page import="db.User"%>

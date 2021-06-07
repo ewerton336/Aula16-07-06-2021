@@ -9,10 +9,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import web.DbListener;
 
-/**
- *
- * @author rlarg
- */
+
 public class User {
     private String login;
     private String name;

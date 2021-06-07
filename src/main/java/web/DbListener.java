@@ -10,11 +10,7 @@ import java.sql.*;
 import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 
-/**
- * Web application lifecycle listener.
- *
- * @author rlarg
- */
+
 public class DbListener implements ServletContextListener {
     public static final String CLASS_NAME = "org.sqlite.JDBC";
     public static final String URL = "jdbc:sqlite:my-finances.db";
